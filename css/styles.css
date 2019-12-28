@@ -72,7 +72,7 @@ hr{
   border: dotted 6px;
   border-top: 0px;
   width: 10%;
-  margin: 30px auto;
+  margin: 50px auto;
   color: grey;
 
 }
@@ -107,7 +107,7 @@ a{
 }
 
 a:hover{
-  color: red;
+  color: black;
 }
 
 .copyright{
